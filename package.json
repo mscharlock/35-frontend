@@ -50,4 +50,5 @@
     "webpack": "^3.5.6",
     "express": "^4.16.2",
     "webpack-dev-server": "^2.8.2"
-  }
+  },
+}
