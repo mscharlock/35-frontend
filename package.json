@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "heroku-postbuild": "webpack -p --progress",
     "build": "webpack",
+    "heroku-postbuild": "webpack",
     "start": "webpack-dev-server --inline --hot",
     "test": "jest",
     "test:watch": "jest --watchAll"
